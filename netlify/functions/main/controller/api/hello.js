@@ -1,3 +1,3 @@
 module.exports = (ctx) => {
-    ctx.body = { message: 'hello nodejs1111' }
+    ctx.body = { message: 'hello nodejs' }
 }
